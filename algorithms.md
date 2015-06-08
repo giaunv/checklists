@@ -34,4 +34,4 @@ The number of computations is only increased by a log of the input value. So in 
 
 That's the gist of it. They reduce the maths down so it might not be exactly n2 or whatever they say it is, but that'll be the dominating factor in the scaling.
 
-[Plain English explanation of Big O](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o#answer-487300) [Ray Hidayat](http://stackoverflow.com/users/49643/ray-hidayat)
+[Plain English explanation of Big O](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o#answer-487300) by [Ray Hidayat](http://stackoverflow.com/users/49643/ray-hidayat) @stackoverflow.com
